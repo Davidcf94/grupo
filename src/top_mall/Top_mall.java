@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Top_mall {
     /*
      * A ver que tal va el Git
-     * en internet
+     * en internet rama 1
      */
     public static void main(String[] args) {
         boolean salir=false;
