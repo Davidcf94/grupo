@@ -3,7 +3,10 @@ package top_mall;
 import java.util.Scanner;
 
 public class Top_mall {
-
+    /*
+     * A ver que tal va el Git
+     * en internet
+     */
     public static void main(String[] args) {
         boolean salir=false;
         Scanner sc=new Scanner(System.in);
