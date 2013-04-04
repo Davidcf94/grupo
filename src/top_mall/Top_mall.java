@@ -8,13 +8,13 @@ public class Top_mall {
         boolean salir=false;
         Scanner sc=new Scanner(System.in);
         while (salir==false){
-            int numero=sc.nextInt();
-            if (numero==-1){
+            int n=sc.nextInt();
+            if (n==-1){
                 salir=true;
             }
             else{
                 double total=0;
-                for (int i=numero-1;i>=0;i--){
+                for (int i=n-1;i>=0;i--){
                     total=i+total;
                 }
                 System.out.println((int)total);
